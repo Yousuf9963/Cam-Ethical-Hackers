@@ -14,7 +14,7 @@ git clone https://github.com/Yousuf9963/Cam-Ethical-Hackers.git
 
 cd Cam-Ethical-Hackers
 
-pip install -r requirements.txt
+pip install -r requirements.txt or pip3 install -r requirements.txt
 
 python3 Cam-ethical-hackers.py
 
