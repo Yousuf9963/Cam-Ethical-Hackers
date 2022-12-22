@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-#-*- coding: utf-8 -*-
-
 #https://github.com/Yousuf9963/Cam-Ethical-Hackers
 
-print("[+] Tool Namee:Find-Website-IP")
+print("[+] Tool Namee:Cam-Ethical-Hackers")
 
 print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer")
 
