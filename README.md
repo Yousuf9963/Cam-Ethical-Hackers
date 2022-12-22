@@ -18,4 +18,14 @@ pip install -r requirements.txt or pip3 install -r requirements.txt
 
 python3 Cam-ethical-hackers.py
 
+Choose the option you want: example 1
+
+copy the provided IP Addresses of The Camera
+
+connect to your VPN (Virtual Private Network)
+
+open in to your Browser incognito mode and you Hacked it...
+
 # Please Follow me Thank you...
+
+And 
