@@ -4,7 +4,7 @@
 
 print("[+] Tool Namee:Cam-Ethical-Hackers")
 
-print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer"))
+print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
 
 print("[+] Version:1.3")
 
