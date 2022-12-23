@@ -14,6 +14,8 @@ git clone https://github.com/Yousuf9963/Cam-Ethical-Hackers.git
 
 cd Cam-Ethical-Hackers
 
+apt install pip
+
 pip install -r requirements.txt or pip3 install -r requirements.txt
 
 python3 Cam-ethical-hackers.py
@@ -22,7 +24,7 @@ Choose the option you want: example 1
 
 copy the provided IP Addresses of The Camera
 
-connect to your VPN (Virtual Private Network)
+connect to your VPN (Virtual PrivateNetwork)
 
 open in to your Browser incognito mode and you Hacked it...
 
