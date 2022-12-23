@@ -23,11 +23,40 @@ print("[+] I hope for you good future and i am willing that you will come high e
 print("")
 
 import requests, re , colorama
-
+import pyfiglet
 colorama.init()
 
+head = pyfiglet.figlet_format("Cam-Ethical-Hackers")
+
+    print (Fore.YELLOW + head)
+
+    print(Fore.RED + " Version 1.0".center(60))
+
+    print(Fore.YELLOW + "[+] " + Fore.GREEN + "Tool Name:Cam-Ethical-Hackers\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Author:Yousuf Shafi'i Muhammad Junior Programmer)\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Version:1.0\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Team:Junior Programmers\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Github:https://github.com/Yousuf9963\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Website:muhammadabdirahman.wixsite.com/yousuf9963blog.")
+
+    print(Fore.RED + ">>>>>>>>>>>>>>>>>>>>>>>>>>>>" + Fore.CYAN + "Choose a valid option" + Fore.RED + "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
 print("""
 
+print(Fore.BLUE + """
+
+[1] Join our WhatsApp Group
+
+      try:
+
+        option = int(input(Fore.YELLOW + Back.RED + "Enter an option: " + Style.RESET_ALL + " "))
+
+    except:
+
+        print(Fore.RED + "Only Numbers Allowed")
+
+        t.sleep(3)
+
+        loop()
+
+    if option == 1:
+
+        os.system("clear")
+      
 \033[1;31m\033[1;37m 
 
 \033[1;31m 
@@ -202,6 +231,12 @@ try:
 
             print("\033[1;31m", ip)
 
+
+elif option == 2:
+
+        os.system("xdg-open https://chat.whatsapp.com/CWrHdMbYCnzEIuzjJcYKzD")
+        
+        loop()
 except:
 
     pass
