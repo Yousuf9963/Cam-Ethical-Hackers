@@ -30,10 +30,7 @@ open in to your Browser incognito mode and you Hacked it...
 
 # Support Please Follow me Thank you...
 
-bitcoin address:
-
-bnb1ruya90hx4fgedwdtl46dade5m08d3danndhd3n
-
+If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
 
 
 
