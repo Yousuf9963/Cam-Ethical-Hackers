@@ -18,6 +18,8 @@ cd Cam-Ethical-Hackers
 
 pip install -r requirements.txt or pip3 install -r requirements.txt
 
+chmod +x *
+
 python3 Cam-ethical-hackers.py
 
 Choose the option you want: example 1
