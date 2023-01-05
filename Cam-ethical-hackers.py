@@ -20,6 +20,12 @@ print("Motto: [+] I hope for you good future and i am willing that you will come
 
 print("")
 
+import os
+
+os.system("pip install requests")
+os.system("pip install re")
+os.system("pip install colorama")
+
 import requests, re , colorama
 
 colorama.init()
