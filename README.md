@@ -40,11 +40,8 @@ If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com
 
 # Please Share to your Friends
 
-# Hack Camera of mobile using these bots one of them on Telegram
-
-https://t.me/Camerahacking6399bot
+# Hack Camera of mobile using this bot on Telegram
 
 http://t.me/Camhack9963bot
 
-https://t.me/Camerahacking9963bot
 
