@@ -166,7 +166,7 @@ try:
 
                  "SY", "TZ", "UG", "UZ", "VC","BJ", ]
 
-    headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
+    headers = {"Mozilla/5.0 (Linux; Android 12; SM-A115F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
 
     num = int(input("OPTIONS : "))
 
