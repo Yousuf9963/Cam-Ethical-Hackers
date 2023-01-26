@@ -6,6 +6,8 @@ is the process of attempting to hack into a person's webcam and activate it with
 
 Typically, a webcam hacker or a camfecter sends his victim an innocent-looking application which has a hidden Trojan software through which the camfecter can control the victim's webcam. The camfecter virus installs itself silently when the victim runs the original application. Once installed, the camfecter can turn on the webcam and capture pictures/videos. The camfecter software works just like the original webcam software present in the victim computer, the only difference being that the camfecter controls the software instead of the webcam's owner.
 
+# installation
+
 pkg update && pkg upgrade -y
 
 pkg install git
