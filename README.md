@@ -34,7 +34,7 @@ open in to your Browser incognito mode and you Hacked it...
 
 # Warning and Legal Desclaimer
 
-Cam-Ethical-Hackers is only for Educatiobal Purpose Only. The Developers is not Responsible any damage Caused by this program
+Cam-Ethical-Hackers is only for Educational Purpose Only. The Developers is not Responsible any damage Caused by this program
 
 
 # Support Please Share Follow me Thank you...
